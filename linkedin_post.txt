@@ -1,0 +1,4 @@
+Excited to share my latest project: AI-Powered Business Performance Dashboard 🧭📊
+- End-to-end BA project: datasets, analysis, Streamlit dashboard & simple forecasting.
+- Highlights: KPI monitoring, customer churn insights, competitor market share tracking.
+Check the repo: [Add your GitHub link]

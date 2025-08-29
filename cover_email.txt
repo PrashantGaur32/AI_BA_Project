@@ -1,0 +1,10 @@
+Subject: AI-Powered Business Performance Dashboard - Portfolio Submission
+
+Hi [Hiring Manager Name],
+
+I'm sharing a project that demonstrates end-to-end business analysis, data engineering, and simple AI forecasting.
+The project includes an interactive dashboard (Streamlit), data, SQL queries, and a one-page summary.
+GitHub: [Add your repo link]
+
+Regards,
+[Your Name]

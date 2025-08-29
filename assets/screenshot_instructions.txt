@@ -1,0 +1,2 @@
+Take screenshots of the running Streamlit dashboard: KPI row, Revenue Trend, Top Products and AI Insights.
+Use these images in your portfolio README or LinkedIn post.
